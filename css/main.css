@@ -22,4 +22,19 @@ body {
     text-align: center;
     border: 1px solid var(--primary-color);
     border-top: 0px;
+    padding-top: 10px;
+}
+
+.second-section {
+  margin-top: 40px;
+  padding: 10px;
+    
+}
+
+.first-section__main-text {
+    display: none;
+}
+
+.first-section__secondary-text {
+    display: none;
 }
