@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
 
 :root {
 
@@ -8,11 +10,18 @@
     --white: #fff;
 
     --primary-font: 'Kanit', sans-serif;
+    --secondary-font: 'Dancing Script', cursive;
 
 }
 
 body {
     font-family: var(--primary-font);
+}
+
+mark {
+    background-color: var(--primary-color);
+    color: var(--white);
+    border-radius: 5px;
 }
 
 .first-section {
@@ -25,16 +34,27 @@ body {
     padding-top: 10px;
 }
 
+.first-section__main-text__heading {
+    font-family: var(--secondary-font);
+}
+
 .second-section {
   margin-top: 40px;
   padding: 10px;
-    
 }
 
-.first-section__main-text {
-    display: none;
+@media screen and (max-width: 480px) {
+    .second-section__secondary-text {
+        display: none;
+    }
 }
 
-.first-section__secondary-text {
-    display: none;
+@media screen and (max-width: 992px) and (min-width: 768px){
+    .second-section__secondary-text {
+        display: none;
+    }
 }
+
+
+
+
