@@ -24,6 +24,12 @@ mark {
     border-radius: 5px;
 }
 
+.sub-heading {
+    background-color: var(--primary-color);
+    color: var(--white);
+    border: 1px solid var(--dark);
+}
+
 .first-section {
     background-color: var(--secondary-color);
     width: 100%;
@@ -54,6 +60,24 @@ mark {
         display: none;
     }
 }
+
+.third-section {
+    background-color: var(--primary-color);
+    color: var(--white);
+    padding: 50px 0px;
+}
+
+@media screen and (min-width: 768px) {
+    .third-section__heading {
+        background-color: var(--dark);
+        transform: rotate(-20deg);
+        border-radius: 5px;
+        border: 2px solid var(--secondary-color);
+    }
+}
+
+
+
 
 
 

@@ -21,6 +21,9 @@
         <p>African Center for Rural Youth Empowerment</p>
     </section>
   </header>
+  <div class="sub-heading text-center">
+    An NGO empowering the youth for a decent livelihood
+  </div>
 
   <section class="second-section">
     <div class="container">
@@ -44,9 +47,27 @@
 
             </div>
             <div class="col-md-6 mb-4">
-                <img src="images/background.jpg" alt="" class="img-fluid img-thumbnail">
+                <img src="images/background.jpg" alt="Second Section Background Image" class="img-fluid img-thumbnail">
             </div>
         </div>
+    </div>
+  </section>
+
+  <section class="third-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h2 class="text-center third-section__heading">OUR MISSION</h2>
+        </div>
+        <div class="col-md-6">
+          <p>
+            ACRYE is a holistic develoment initiative for creating opportunities for young men and
+            women residing in rural communities of Nigeria by empowering them for a decent livelihood,
+            through a group-oriented capacity building, skill development and entreprenuerial 
+            endeavours.
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 
