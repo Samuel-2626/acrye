@@ -90,11 +90,11 @@ mark {
 }
 
 .fourth-section {
-    margin: 30px 0px;
+    margin: 50px 0px;
 }
 
 .fourth-section ul {
-    list-style-type: square;
+    list-style-type: '➡️';
 }
 
 .fourth-section li {
@@ -133,7 +133,7 @@ mark {
 
 .fifth-section {
     background-color: var(--primary-color);
-    margin: 20px 0px;
+    margin: 50px 0px;
     padding: 30px 0px;
     color: var(--white);
 }
@@ -152,6 +152,10 @@ mark {
 
 .fifth-section__sub-heading {
     color: var(--dark);
+}
+
+.six-section {
+    margin: 50px 0px;
 }
 
 .six-section--light-blue-color {
@@ -180,6 +184,7 @@ mark {
 
 .eight-section {
     text-align: center;
+    margin: 50px 0px;
 } 
 
 .eight-section em {
@@ -192,7 +197,7 @@ mark {
 
 .eleventh-section {
     background-color: var(--primary-color);
-    margin-top: 20px;
+    margin-top: 50px;
     padding: 30px 0px;
     color: var(--white);
 

@@ -75,7 +75,7 @@
 
   <section class="fourth-section">
   <div class="container">
-  <h2 class="text-center fourth-section__heading mb-4">AIMS & OBJECTIVES</h2>
+  <h2 class="text-center fourth-section__heading mb-5">AIMS & OBJECTIVES</h2>
     <div class="row">
       <div class="col-md-6">
       <ul>
@@ -130,7 +130,7 @@
 
   <section class="fifth-section">
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-3">PROGRAMMES</h2>
+    <h2 class="text-center fourth-section__heading mb-5 mt-2">PROGRAMMES</h2>
       <div class="row">
         <div class="col-md-6">
           <h3 class="fifth-section__sub-heading">Talents & Entrepreneurship Development</h3>
@@ -199,7 +199,7 @@
 
   <section class="six-section">
   <div class="container">
-  <h2 class="text-center fourth-section__heading">STRATEGIES</h2>
+  <h2 class="text-center fourth-section__heading mb-4">STRATEGIES</h2>
 
         <div class="row">
             <div class="col-md-4 six-section--hover-add-border-effect">
@@ -266,23 +266,23 @@
 
   <section class="seventh-section">
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-4">FACILITIES</h2>
+    <h2 class="text-center fourth-section__heading mb-5 mt-2">FACILITIES & DEMONSTRATION</h2>
 
    <div class="row">
         <div class="col-md-4 mb-4">
-        <img src="images/facility-1.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/facility-1.jpg" alt="Olajumoke Hall (Front View)" class="img-fluid img-thumbnail">
         <em>Olajumoke Hall (Front View)</em>
         </div>
         <div class="col-md-4 mb-4">
-        <img src="images/facility-3.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/facility-3.jpg" alt="Demonstration Concrete Pond for Training" class="img-fluid img-thumbnail">
         <em>Demonstration Concrete Pond for Training</em>
         </div>
         <div class="col-md-4 mb-4">
-        <img src="images/facility-4.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/facility-4.jpg" alt="Demonstration Snairy for Training" class="img-fluid img-thumbnail">
         <em>Demonstration Snairy for Training</em>
         </div>
         <div class="col-md-4 mb-4">
-        <img src="images/facility-5.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/facility-5.jpg" alt="Demonstration Poultry for Training" class="img-fluid img-thumbnail">
         <em>Demonstration Poultry for Training</em>
         </div>
       </div>
@@ -291,10 +291,10 @@
 
   <section class="eight-section">
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-4">MEET THE TEAM</h2>
+    <h2 class="text-center fourth-section__heading mb-5 mt-2">MEET THE TEAM</h2>
       <div class="row">
         <div class="col-md-2">
-        <img src="images/chairman.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail mb-2">
+        <img src="images/chairman.jpg" alt="Chairman | Professor D.O Torimiro" class="img-fluid img-thumbnail mb-2">
         <em>Chairman | Professor D.O Torimiro</em>
         <p class="mt-1">
         Dixon Olutade Torimiro (PhD), a Professor of Agricultural 
@@ -302,14 +302,14 @@
         </p>
         </div>
         <div class="col-md-2">
-        <img src="images/moji.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/moji.jpg" alt="Mojisola Helen Torimiro" class="img-fluid img-thumbnail">
      
         <p>
         Mojisola Helen Torimiro is a seasoned administrator.
         </p>
         </div>
         <div class="col-md-2">
-        <img src="images/dairo.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/dairo.jpg" alt="Professor O.A Dairo" class="img-fluid img-thumbnail">
      
         <p>
         Professor O.A Dairo is a Professor of Religious studies 
@@ -317,14 +317,14 @@
         </p>
         </div>
         <div class="col-md-2">
-        <img src="images/odunsi.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/odunsi.jpg" alt="Mrs Mabel Adenrele Odunsi" class="img-fluid img-thumbnail">
 
         <p>
         Mrs Mabel Adenrele Odunsi is a seasoned educator.
         </p>
         </div>
         <div class="col-md-3">
-        <img src="images/kolawole.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/kolawole.jpg" alt="Professor Oluwatoyin Dare Kolawole" class="img-fluid img-thumbnail">
  
         <p>
         Professor Oluwatoyin Dare Kolawole is a Professor of Rural 
@@ -355,9 +355,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-        <img src="images/contact.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
+        <img src="images/contact.jpg" alt="Contact Us Image" class="img-fluid img-thumbnail">
         </div>
-        <div class="col-md-6 text-center">
+        <div class="col-md-6 text-center mt-3 mb-3">
           <address>
           Goshenland Villa, Opposite CAC Hill of Righteousness,
           <br>
