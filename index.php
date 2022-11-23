@@ -59,7 +59,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <h2 class="text-center third-section__heading">OUR MISSION</h2>
+          <h2 class="text-center third-section__heading p-2">OUR MISSION</h2>
         </div>
         <div class="col-md-6">
           <p>
@@ -75,7 +75,7 @@
 
   <section class="fourth-section">
   <div class="container">
-  <h2 class="text-center fourth-section__heading mb-5">AIMS & OBJECTIVES</h2>
+  <h2 class="text-center fourth-section__heading mb-5 p-2">AIMS & OBJECTIVES</h2>
     <div class="row">
       <div class="col-md-6">
       <ul>
@@ -130,7 +130,7 @@
 
   <section class="fifth-section">
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-5 mt-2">PROGRAMMES</h2>
+    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">PROGRAMMES</h2>
       <div class="row">
         <div class="col-md-6">
           <h3 class="fifth-section__sub-heading">Talents & Entrepreneurship Development</h3>
@@ -199,7 +199,7 @@
 
   <section class="six-section">
   <div class="container">
-  <h2 class="text-center fourth-section__heading mb-4">STRATEGIES</h2>
+  <h2 class="text-center fourth-section__heading mb-4 p-2">STRATEGIES</h2>
 
         <div class="row">
             <div class="col-md-4 six-section--hover-add-border-effect">
@@ -266,7 +266,7 @@
 
   <section class="seventh-section">
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-5 mt-2">FACILITIES & DEMONSTRATION</h2>
+    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">FACILITIES & DEMONSTRATION</h2>
 
    <div class="row">
         <div class="col-md-4 mb-4">
@@ -291,7 +291,7 @@
 
   <section class="eight-section">
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-5 mt-2">MEET THE TEAM</h2>
+    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">MEET THE TEAM</h2>
       <div class="row">
         <div class="col-md-2">
         <img src="images/chairman.jpg" alt="Chairman | Professor D.O Torimiro" class="img-fluid img-thumbnail mb-2">
