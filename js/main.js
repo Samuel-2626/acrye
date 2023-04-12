@@ -21,6 +21,19 @@ firstSection.addEventListener("mouseleave", function() {
     subHeading.style.backgroundColor = primaryColor;
 })
 
+window.onscroll = function() {
+    myFunction()
+}
+
+const sticky = subHeading.offsetTop;
+
+function myFunction() {
+    if (window.pageYOffset > sticky) {
+        subHeading.classList.add("sticky")
+    } else {
+        subHeading.classList.remove("sticky")
+    }
+}
 
 
 

@@ -24,6 +24,16 @@ mark {
     border-radius: 5px;
 }
 
+a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
 .sub-heading {
     background-color: var(--primary-color);
     color: var(--white);
@@ -75,7 +85,7 @@ mark {
         color: var(--white);
         background-color: var(--dark);
         border-radius: 5px;
-        border-top: 2px solid var(--secondary-color);
+        border-top: 5px solid var(--secondary-color);
         margin-bottom: 10px;
     }
 }
@@ -85,7 +95,7 @@ mark {
         background-color: var(--dark);
         transform: rotate(-20deg);
         border-radius: 5px;
-        border: 2px solid var(--secondary-color);
+        border-top: 5px solid var(--secondary-color);
     }
 }
 
@@ -103,23 +113,23 @@ mark {
 
 @media screen and (min-width: 768px) {
     .fourth-section__heading {
-        width: 30%;
+        width: 350px;
         margin: 0 auto;
         color: var(--white);
         background-color: var(--dark);
         border-radius: 5px;
-        border-top: 2px solid var(--secondary-color);
+        border-top: 5px solid var(--secondary-color);
     }
 }
 
 @media screen and (max-width: 767px) {
     .fourth-section__heading {
-        width: 60%;
+        width: 350px;
         margin: 0 auto;
         color: var(--white);
         background-color: var(--dark);
         border-radius: 5px;
-        border-top: 2px solid var(--secondary-color);
+        border-top: 5px solid var(--secondary-color);
         margin-bottom: 10px;
     }
 }
@@ -163,17 +173,17 @@ mark {
 }
 
 .six-section--hover-add-border-effect {
-    transition: all 200ms;
+    transition: all 1s ease-in-out;
     margin: 10px 0px;
     padding: 10px 5px;
 }
 
 .six-section--hover-add-border-effect:hover {
     background: var(--primary-color);
-    border-bottom-left-radius: 50px;
-    border-top-right-radius: 50px;
-    color: var(--dark);
+    border-radius: 50px;
+    color: var(--white) !important;
 }
+
 
 .seventh-section {
     background-color: var(--primary-color);
@@ -187,12 +197,8 @@ mark {
     margin: 50px 0px;
 } 
 
-.eight-section em {
-    background-color: var(--primary-color);
-    color: var(--white);
-    padding: 4px;
-    border-radius: 7px;
-    border: 2px solid var(--dark);
+.eight-section span {
+    color: var(--secondary-color);
 }
 
 .eleventh-section {
@@ -206,4 +212,35 @@ mark {
 footer {
     text-align: center;
     background-color: var(--secondary-color);
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 25px;
+}
+
+.reduce-img {
+    width: 150px;
+}
+
+.ninth-section {
+    background-color: var(--primary-color);
+    color: var(--white);
+}
+
+.ninth-section a {
+    color: var(--dark);
+}
+
+.ninth-section h5 {
+    color: var(--dark);
+}
+
+.tenth-section h5 {
+    color: var(--secondary-color);
 }

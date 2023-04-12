@@ -9,7 +9,7 @@
     <meta name="description" content="A non-governmental organisation empowering the African youth for a decent livelihood">
     <meta name="keywords" content="empowerment, rural youth, livelihood, african youth, acrye, scholarship, training, capacity building, farming, entreprenuership">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/acrye_style.css">
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -27,11 +27,12 @@
     An NGO empowering the youth for a decent livelihood
   </div>
 
+  <div class="content">
   <section class="second-section">
     <div class="container">
         <div class="row">
             <div class="col-md-6 mb-4">
-                African Center for Rural Youth Empowerment (ACRYE) was initiated and presented by <mark>Dixon Olutade Torimiro</mark>  
+                African Center for Rural Youth Empowerment (ACRYE) was initiated and presented by <a href="https://professortorimiro.info/" target="_blank">Dixon Olutade Torimiro</a>  
                 as his country's action programme during his participation at the German Government/FAO's
                 sponsored 21st International Rural Youth Leaders Training Workshop held in Bavarian Farmers'
                 Union Training Center, Herrsching, Germany between June and July 2002.  
@@ -62,6 +63,7 @@
           <h2 class="text-center third-section__heading p-2">OUR MISSION</h2>
         </div>
         <div class="col-md-6">
+          <br>
           <p>
             ACRYE is a holistic develoment initiative for creating opportunities for young men and
             women residing in rural communities of Nigeria by empowering them for a decent livelihood,
@@ -145,9 +147,13 @@
         <img src="images/programmes-1.jpg" alt="Programmes One Image" class="img-fluid img-thumbnail">
         </div>
         <div class="col-md-6 mb-5 fifth-section--hide-on-small-devices">
+          <br>
+          <br>
         <img src="images/programmes-2.jpg" alt="Programmes Two Image" class="img-fluid img-thumbnail">
         </div>
         <div class="col-md-6">
+          <br>
+          <br>
         <h3 class="fifth-section__sub-heading">
         Apprenticeship Support
           </h3>
@@ -160,9 +166,13 @@
           </p>
         </div>
         <div class="col-md-6 mb-5 fifth-section--show-only-on-small-devices">
+          <br>
+          <br>
         <img src="images/programmes-2.jpg" alt="Programmes Two Image" class="img-fluid img-thumbnail">
         </div>
         <div class="col-md-6">
+          <br>
+          <br>
         <h3 class="fifth-section__sub-heading">Skills Acquisition Training</h3>
           <p>
           The Centre offers series of skills acquisition training programmes 
@@ -176,12 +186,18 @@
           </p>
         </div>
         <div class="col-md-6 mb-5">
+          <br>
+          <br>
         <img src="images/programmes-4.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
         </div>
         <div class="col-md-6 mb-5 fifth-section--hide-on-small-devices">
+          <br>
+          <br>
         <img src="images/programmes-3.jpg" alt="Programmes Three Image" class="img-fluid img-thumbnail">
         </div>
         <div class="col-md-6">
+          <br>
+          <br>
         <h3 class="fifth-section__sub-heading">Small Business Support Scheme</h3>
           <p>
           This Scheme aims at providing small credit facility to any participant 
@@ -206,7 +222,7 @@
                 <p class="text-center">
                     <i class="fa fa-group fa-5x" style="color: #e0524e;"></i>
                 </p>
-                <h4 class="text-center six-section--light-blue-color">Youth Groups' Formation</h4>
+                <h4 class="text-center"><strong>Youth Groups' Formation</strong></h4>
 
 
                 <p class="text-center">
@@ -222,7 +238,7 @@
                 <p class="text-center">
                     <i class="fa fa-handshake-o fa-5x" style="color: #e0524e;"></i>
                 </p>
-                <h4 class="text-center six-section--light-blue-color">Institutional Affiliation and Linkages</h4>
+                <h4 class="text-center"><strong>Institutional Affiliation and Linkages</strong></h4>
                 <p class="text-center">
                 This strategy is being explored to provide space for any 
                 youth who may be interested in the Centre's apprenticeship supports 
@@ -237,7 +253,7 @@
                 <p class="text-center">
                     <i class="fa fa-line-chart fa-5x" style="color: #e0524e;"></i>
                 </p>
-                <h4 class="text-center six-section--light-blue-color">Promoting Savings and Revolving Credits</h4>
+                <h4 class="text-center"><strong>Promoting Savings and Revolving Credits</strong></h4>
                 <p class="text-center">
                 This strategy is to build the youth financial capacity through 
                 culture of saving in order to facilitate a financial pool for 
@@ -248,7 +264,7 @@
                 <p class="text-center">
                     <i class="fa fa-graduation-cap fa-5x" style="color: #e0524e;"></i>
                 </p>
-                <h4 class="text-center six-section--light-blue-color">Training and Education for Empowerment</h4>
+                <h4 class="text-center"><strong>Training and Education for Empowerment</strong></h4>
                 <p class="text-center">
                 This strategy is a major tool for ensuring attitudinal and 
                 behaviour change in the process of capacity building and 
@@ -266,12 +282,12 @@
 
   <section class="seventh-section">
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">FACILITIES & DEMONSTRATION</h2>
+    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">DEMONSTRATION</h2>
 
    <div class="row">
         <div class="col-md-4 mb-4">
         <img src="images/facility-1.jpg" alt="Olajumoke Hall (Front View)" class="img-fluid img-thumbnail">
-        <em>Olajumoke Hall (Front View)</em>
+        <strong>Facility:</strong><em> Olajumoke Hall (Front View)</em>
         </div>
         <div class="col-md-4 mb-4">
         <img src="images/facility-3.jpg" alt="Demonstration Concrete Pond for Training" class="img-fluid img-thumbnail">
@@ -293,41 +309,46 @@
     <div class="container">
     <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">MEET THE TEAM</h2>
       <div class="row">
-        <div class="col-md-2">
-        <img src="images/chairman.jpg" alt="Chairman | Professor D.O Torimiro" class="img-fluid img-thumbnail mb-2">
-        <em>Chairman | Professor D.O Torimiro</em>
+        <div class="col-md-6">
+        <img src="images/chairman.jpg" alt="Chairman | Professor D.O Torimiro" class="img-fluid img-thumbnail mb-2 reduce-img">
+        <br>
+        <strong>Chairman | Professor D.O Torimiro</strong>
         <p class="mt-1">
-        Dixon Olutade Torimiro (PhD), a Professor of Agricultural 
+       <span>Dixon Olutade Torimiro (PhD)</span>, a Professor of Agricultural 
         Extension and Rural Sociology.
         </p>
+        <br>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-6">
         <img src="images/moji.jpg" alt="Mojisola Helen Torimiro" class="img-fluid img-thumbnail">
      
         <p>
-        Mojisola Helen Torimiro is a seasoned administrator.
+       <span>Mojisola Helen Torimiro</span> is a seasoned administrator.
         </p>
+        <br>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-6">
         <img src="images/dairo.jpg" alt="Professor O.A Dairo" class="img-fluid img-thumbnail">
      
         <p>
-        Professor O.A Dairo is a Professor of Religious studies 
+       <span>Professor O.A Dairo</span> is a Professor of Religious studies 
         at Redeemers University(RUN).
         </p>
+        <br>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-6">
         <img src="images/odunsi.jpg" alt="Mrs Mabel Adenrele Odunsi" class="img-fluid img-thumbnail">
 
         <p>
-        Mrs Mabel Adenrele Odunsi is a seasoned educator.
+       <span>Mrs Mabel Adenrele Odunsi</span> is a seasoned educator.
         </p>
+        <br>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-6">
         <img src="images/kolawole.jpg" alt="Professor Oluwatoyin Dare Kolawole" class="img-fluid img-thumbnail">
  
         <p>
-        Professor Oluwatoyin Dare Kolawole is a Professor of Rural 
+       <span>Professor Oluwatoyin Dare Kolawole</span> is a Professor of Rural 
         Development at the Okavango Research Institute (ORI), University of 
         Botswana (UB) in Southern Africa.
         </p>
@@ -336,20 +357,136 @@
     </div>
   </section>
 
-<!-- TODO -->
-  <!-- <section class="ninth-section">
+  <section class="ninth-section">
+    <br>
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-4">BENEFICIARIES</h2>
-      <div class="row">
-        <div class="col-md-6">
+    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">ACHIEVEMENTS</h2>
+    <p>
+      <h5>SOME OF THE ACHIEVEMENTS OF THE CENTRE SINCE ITS INCEPTION:</h5>
 
+      <ol>
+        <li>More than 15 rural youth have benefitted from its training workshop on Tips for Successful Business Management.</li>
+        <li>More than 10 beneficiaries of its Small Business Support Scheme (SBSS) have been economically empowered through the establishment of some small enterprises such as Iru Production, Fufu Production, Farming, Milling etc.</li>
+        <li>More than 7 of its beneficiaries of its 75 hives capacity Apiary Farms have been empowered through their participation in Honey Production and Marketing.</li>
+        <li>Moral values of many secondary schools students have been built through organized talks and distribution of the Centre’s book entitled: <a href="http://professortorimiro.info/resources.php" target="_blank"> Ethical Revolution among Nigerian Youth in Schools and Colleges.</a> </li>
+        <li>Capacity of more than 120 rural youths was built in the areas of computer appreciation and rural entrepreneurship – Bee keeping, Snail rearing and Fish farming through their participation in a 2-day capacity building workshop organized in collaboration with Cooperative Information Network (COPINE) an Agency of the Federal Ministry of Science and Technology based in the Obafemi Awolowo University, Ile-Ife, to mark the 2010 International Youth Day Celebration. </li>
+    </ol>
+    </p>
+
+    </div>
+    <br>
+  </section>
+
+<!-- TODO -->
+<br>
+  <section class="tenth-section">
+    <div class="container">
+    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">BENEFICIARIES</h2>
+
+    <h5>MEMBERS OF THE OMI-OKUN YOUTH EMPOWERMENT SOCIETY- 1</h5>
+    <br>
+      <div class="row">
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-1.jpg" alt="Oluranti Mojisola AIREMIONKHALE" class="img-fluid img-thumbnail">
         </div>
-        <div class="col-md-6">
-          
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-2.jpg" alt="Olabisi Anike MAKINDE" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-3.jpg" alt="Adeniji Samuel ADEOYE" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-4.jpg" alt="Jide Emmanuel AREJI" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-5.jpg" alt="Bose Lydia  AREJI" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-6.jpg" alt="Omolade Atinuke OLAOYE" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-7.jpg" alt="Oluwaseyi Dorcas OLAYERA" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-8.jpg" alt="Julius Oladotun OLABIYI" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-9.jpg" alt="Funke Mercy FAMOYEWA" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-10.png" alt="Elizabeth Yemisi OLABIYI" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-11.png" alt="Christianah Yemisi ADENUGA" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-12.png" alt="Kehinde Funke AJAYI" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-13.png" alt="Bosede Olaitan AKINBORODE" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-14.png" alt="Omobonke Christianah OLAYIWOLA" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-15.png" alt="Janet Ololade ODUTOLU" class="img-fluid img-thumbnail">
+        </div>
+      </div>
+      <br>
+<h5>MEMBERS OF THE GBONGAN YOUTH EMPOWERMENT SOCIETY</h5>
+<br>
+      <div class="row">
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-16.png" alt="Sunday ADENIRAN" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-17.png" alt="Mojirayo OLALEKAN" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-18.png" alt="Victoria AKANBI" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-19.png" alt="Comfort ADEMOLA" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-20.png" alt="Mojisola Asake ADENIRAN" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-21.png" alt="Florence Joose ADEBAYO" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-22.png" alt="Funke OLABISI" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-23.jpg" alt="S. Okunade" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-24.jpg" alt="O.  Hammed" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-25.png" alt="Mrs. Kehinde Fayele" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-26.png" alt="Mr. Dayo Oginni" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-27.png" alt="Mr. Martins Awoyele" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-28.png" alt="Bose Tajudeen" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-29.png" alt="Mrs. Lydia Adejuwonlo" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-30.png" alt="Miss Bola Odewale" class="img-fluid img-thumbnail">
+        </div>
+        <div class="col-3 col-sm-2">
+        <img src="images/oyes-6-31.png" alt="Femi Owoyemi" class="img-fluid img-thumbnail">
         </div>
       </div>
     </div>
-  </section> -->
+  </section>
 
   <section class="eleventh-section">
     <div class="container">
@@ -378,6 +515,9 @@
   &copy; ACRYE <?php echo date('Y'); ?> All rights reserved
   </footer>
     
+  </div>
+
+  
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
