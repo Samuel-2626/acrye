@@ -57,7 +57,7 @@
   </section>
 
   <section class="third-section">
-    <div class="container">
+    <div class="container slideanim">
       <div class="row">
         <div class="col-md-6">
           <h2 class="text-center third-section__heading p-2">OUR MISSION</h2>
@@ -134,7 +134,7 @@
     <div class="container">
     <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">PROGRAMMES</h2>
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
           <h3 class="fifth-section__sub-heading">Talents & Entrepreneurship Development</h3>
           <p>
           This Programme is designed to discover the participant's hidden 
@@ -143,15 +143,15 @@
           and sustainable livelihood.
           </p>
         </div>
-        <div class="col-md-6 mb-5">
+        <div class="col-md-6 mb-5 slideanim">
         <img src="images/programmes-1.jpg" alt="Programmes One Image" class="img-fluid img-thumbnail">
         </div>
-        <div class="col-md-6 mb-5 fifth-section--hide-on-small-devices">
+        <div class="col-md-6 mb-5 fifth-section--hide-on-small-devices slideanim">
           <br>
           <br>
         <img src="images/programmes-2.jpg" alt="Programmes Two Image" class="img-fluid img-thumbnail">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
           <br>
           <br>
         <h3 class="fifth-section__sub-heading">
@@ -165,12 +165,12 @@
           interest within the locality with the financial support of ACRYE.
           </p>
         </div>
-        <div class="col-md-6 mb-5 fifth-section--show-only-on-small-devices">
+        <div class="col-md-6 mb-5 fifth-section--show-only-on-small-devices slideanim">
           <br>
           <br>
         <img src="images/programmes-2.jpg" alt="Programmes Two Image" class="img-fluid img-thumbnail">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
           <br>
           <br>
         <h3 class="fifth-section__sub-heading">Skills Acquisition Training</h3>
@@ -185,17 +185,17 @@
           management technologies among
           </p>
         </div>
-        <div class="col-md-6 mb-5">
+        <div class="col-md-6 mb-5 slideanim">
           <br>
           <br>
         <img src="images/programmes-4.jpg" alt="Programmes Four Image" class="img-fluid img-thumbnail">
         </div>
-        <div class="col-md-6 mb-5 fifth-section--hide-on-small-devices">
+        <div class="col-md-6 mb-5 fifth-section--hide-on-small-devices slideanim">
           <br>
           <br>
         <img src="images/programmes-3.jpg" alt="Programmes Three Image" class="img-fluid img-thumbnail">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
           <br>
           <br>
         <h3 class="fifth-section__sub-heading">Small Business Support Scheme</h3>
@@ -282,22 +282,22 @@
 
   <section class="seventh-section">
     <div class="container">
-    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">DEMONSTRATION</h2>
+    <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">DEMONSTRATIONS</h2>
 
    <div class="row">
-        <div class="col-md-4 mb-4">
+        <div class="col-md-4 mb-4 slideanim">
         <img src="images/facility-1.jpg" alt="Olajumoke Hall (Front View)" class="img-fluid img-thumbnail">
         <strong>Facility:</strong><em> Olajumoke Hall (Front View)</em>
         </div>
-        <div class="col-md-4 mb-4">
+        <div class="col-md-4 mb-4 slideanim">
         <img src="images/facility-3.jpg" alt="Demonstration Concrete Pond for Training" class="img-fluid img-thumbnail">
         <em>Demonstration Concrete Pond for Training</em>
         </div>
-        <div class="col-md-4 mb-4">
+        <div class="col-md-4 mb-4 slideanim">
         <img src="images/facility-4.jpg" alt="Demonstration Snairy for Training" class="img-fluid img-thumbnail">
         <em>Demonstration Snairy for Training</em>
         </div>
-        <div class="col-md-4 mb-4">
+        <div class="col-md-4 mb-4 slideanim">
         <img src="images/facility-5.jpg" alt="Demonstration Poultry for Training" class="img-fluid img-thumbnail">
         <em>Demonstration Poultry for Training</em>
         </div>
@@ -309,7 +309,7 @@
     <div class="container">
     <h2 class="text-center fourth-section__heading mb-5 mt-2 p-2">MEET THE TEAM</h2>
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
         <img src="images/chairman.jpg" alt="Chairman | Professor D.O Torimiro" class="img-fluid img-thumbnail mb-2 reduce-img">
         <br>
         <strong>Chairman | Professor D.O Torimiro</strong>
@@ -319,7 +319,7 @@
         </p>
         <br>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
         <img src="images/moji.jpg" alt="Mojisola Helen Torimiro" class="img-fluid img-thumbnail">
      
         <p>
@@ -327,7 +327,7 @@
         </p>
         <br>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
         <img src="images/dairo.jpg" alt="Professor O.A Dairo" class="img-fluid img-thumbnail">
      
         <p>
@@ -336,7 +336,7 @@
         </p>
         <br>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
         <img src="images/odunsi.jpg" alt="Mrs Mabel Adenrele Odunsi" class="img-fluid img-thumbnail">
 
         <p>
@@ -344,7 +344,7 @@
         </p>
         <br>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 slideanim">
         <img src="images/kolawole.jpg" alt="Professor Oluwatoyin Dare Kolawole" class="img-fluid img-thumbnail">
  
         <p>
@@ -463,6 +463,11 @@
         <div class="col-3 col-sm-2">
         <img src="images/oyes-6-24.jpg" alt="O.  Hammed" class="img-fluid img-thumbnail">
         </div>
+      </div>
+      <br>
+      <h5>MEMBERS OF THE OMI-OKUN YOUTH EMPOWERMENT SOCIETY- 2</h5>
+      <br>
+      <div class="row">
         <div class="col-3 col-sm-2">
         <img src="images/oyes-6-25.png" alt="Mrs. Kehinde Fayele" class="img-fluid img-thumbnail">
         </div>
@@ -521,5 +526,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
+    <script src="js/float-panel.js"></script>
   </body>
 </html>
