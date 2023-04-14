@@ -291,15 +291,15 @@
         </div>
         <div class="col-md-4 mb-4 slideanim">
         <img src="images/facility-3.jpg" alt="Demonstration Concrete Pond for Training" class="img-fluid img-thumbnail">
-        <em>Demonstration Concrete Pond for Training</em>
+        <strong>Demonstration:</strong><em> Concrete Pond for Training</em>
         </div>
         <div class="col-md-4 mb-4 slideanim">
         <img src="images/facility-4.jpg" alt="Demonstration Snairy for Training" class="img-fluid img-thumbnail">
-        <em>Demonstration Snairy for Training</em>
+        <strong>Demonstration:</strong><em> Snairy for Training</em>
         </div>
         <div class="col-md-4 mb-4 slideanim">
         <img src="images/facility-5.jpg" alt="Demonstration Poultry for Training" class="img-fluid img-thumbnail">
-        <em>Demonstration Poultry for Training</em>
+        <strong>Demonstration:</strong><em> Poultry for Training</em>
         </div>
       </div>
     </div>
@@ -387,7 +387,7 @@
     <br>
       <div class="row">
         <div class="col-3 col-sm-2">
-        <img src="images/oyes-6-1.jpg" alt="Oluranti Mojisola AIREMIONKHALE" class="img-fluid img-thumbnail">
+        <img src="images/oyes-6-1.jpg" alt="Oluranti Mojisola AIREMIONKHALE" class="img-fluid img-thumbnail img-grow">
         </div>
         <div class="col-3 col-sm-2">
         <img src="images/oyes-6-2.jpg" alt="Olabisi Anike MAKINDE" class="img-fluid img-thumbnail">
@@ -432,6 +432,7 @@
         <img src="images/oyes-6-15.png" alt="Janet Ololade ODUTOLU" class="img-fluid img-thumbnail">
         </div>
       </div>
+      <hr>
       <br>
 <h5>MEMBERS OF THE GBONGAN YOUTH EMPOWERMENT SOCIETY</h5>
 <br>
@@ -464,6 +465,7 @@
         <img src="images/oyes-6-24.jpg" alt="O.  Hammed" class="img-fluid img-thumbnail">
         </div>
       </div>
+      <hr>
       <br>
       <h5>MEMBERS OF THE OMI-OKUN YOUTH EMPOWERMENT SOCIETY- 2</h5>
       <br>
