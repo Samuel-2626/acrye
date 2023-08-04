@@ -173,7 +173,7 @@ a:hover {
 }
 
 .six-section--hover-add-border-effect {
-    transition: all 1s ease-in-out;
+    transition: all 500ms ease-in-out;
     margin: 10px 0px;
     padding: 10px 5px;
 }
@@ -269,6 +269,18 @@ footer {
     } 
 }
 
-.img-grow:hover {
-    width: 110% !important;
+.beneficial_img {
+    width: 200px;
+    height: 180px;
+    object-fit: cover;
+    transition: all 500ms;
+    margin-bottom: 10px;
+}
+
+
+.beneficial_img:hover {
+    
+    width: 215px;
+    height: 185px;
+    object-fit: cover;
 }

@@ -9,7 +9,7 @@
     <meta name="description" content="A non-governmental organisation empowering the African youth for a decent livelihood">
     <meta name="keywords" content="empowerment, rural youth, livelihood, african youth, acrye, scholarship, training, capacity building, farming, entreprenuership">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/acrye_style.css">
+    <link rel="stylesheet" href="css/main.css">
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -218,7 +218,7 @@
   <h2 class="text-center fourth-section__heading mb-4 p-2">STRATEGIES</h2>
 
         <div class="row">
-            <div class="col-md-4 six-section--hover-add-border-effect">
+            <div class="col-md-6 col-lg-4 six-section--hover-add-border-effect">
                 <p class="text-center">
                     <i class="fa fa-group fa-5x" style="color: #e0524e;"></i>
                 </p>
@@ -234,7 +234,7 @@
                 to form themselves into groups in line with the Centre's guidelines.
               </p>
             </div>
-            <div class="col-md-4 six-section--hover-add-border-effect">
+            <div class="col-md-6 col-lg-4 six-section--hover-add-border-effect">
                 <p class="text-center">
                     <i class="fa fa-handshake-o fa-5x" style="color: #e0524e;"></i>
                 </p>
@@ -249,7 +249,7 @@
                 institution of its scholarship awardees to facilitate proper monitoring.
               </p>
             </div>
-            <div class="col-md-4 six-section--hover-add-border-effect">
+            <div class="col-md-6 col-lg-4 six-section--hover-add-border-effect">
                 <p class="text-center">
                     <i class="fa fa-line-chart fa-5x" style="color: #e0524e;"></i>
                 </p>
@@ -260,7 +260,7 @@
                 credit facility among the youth group.
               </p>
             </div>
-            <div class="col-md-4 six-section--hover-add-border-effect">
+            <div class="col-md-6 col-lg-4 six-section--hover-add-border-effect">
                 <p class="text-center">
                     <i class="fa fa-graduation-cap fa-5x" style="color: #e0524e;"></i>
                 </p>
@@ -387,7 +387,7 @@
     <br>
       <div class="row">
         <div class="col-3 col-sm-2">
-        <img src="images/oyes-6-1.jpg" alt="Oluranti Mojisola AIREMIONKHALE" class="img-fluid img-thumbnail img-grow">
+        <img src="images/oyes-6-1.jpg" alt="Oluranti Mojisola AIREMIONKHALE" class="img-fluid img-thumbnail">
         </div>
         <div class="col-3 col-sm-2">
         <img src="images/oyes-6-2.jpg" alt="Olabisi Anike MAKINDE" class="img-fluid img-thumbnail">
@@ -507,12 +507,13 @@
           <br>
           Seminary Area, Zone 1, Opa, P.O.Box 1134, Lagere, Ile-Ife, Nigeria.
           <br>
-          E-mail: torimiro@gmail.com;
-          <br>
-          Mobile Phone: +234 - (0) - 814 911 0574
-          <br>
+
           </address>
           <img src="images/logo.png" alt="Logo Background Image" class="mb-2">
+          <p>
+         <em>Touching the lives of African Rural Youths</em>
+          </p>
+          
         </div>
       </div>
     </div>
